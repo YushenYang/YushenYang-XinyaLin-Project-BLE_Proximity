@@ -1,0 +1,14 @@
+Last Modified Date & Time: 07/14/2016 01:56:44
+
+BLE_Proximity: TopDesign.cysch
+	UART_DEB [v3.20] to [v3.20]
+	Disconnect_LED [v2.20] to [v2.20]
+	Alert_LED [v2.20] to [v2.20]
+	Advertising_LED [v2.20] to [v2.20]
+	SW2 [v2.20] to [v2.20]
+	CYBLE [v3.10] to [v3.10]
+
+BLE_Proximity: BLE_Proximity.cydwr
+	cy_boot [v4.20] to [v5.40]
+
+

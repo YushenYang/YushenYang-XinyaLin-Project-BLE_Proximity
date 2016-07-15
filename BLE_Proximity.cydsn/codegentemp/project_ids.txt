@@ -1,0 +1,5 @@
+C:\Users\sunyi\Desktop\BLE_Proximity\BLE_Proximity.cydsn\BLE_Proximity.cyprj|6818fc68-6327-421b-8a0e-f818665ba1b9
+C:\9047software\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|87785177-6feb-4a6d-8108-da8dde9d8790
+C:\9047software\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|fddfb118-723e-4adb-862d-8b55893c5152
+C:\9047software\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|69fda843-bcd8-4f68-a78b-5a2f1c23b9fd
+C:\9047software\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ebf6d3cb-1aae-4fe5-bfd2-25baa45ca483
